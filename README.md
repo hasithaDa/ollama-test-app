@@ -1,1 +1,1 @@
-# ollma-test-app
+# ollama-test-app
